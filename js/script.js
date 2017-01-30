@@ -1,6 +1,11 @@
 window.onload=function(){
 
-  var protocol = "http://"
+//  var protocol = "http://"
+  var protocol = "//"
+//  var protocol = "https://"
+
+
+
 //  var server = "localhost"
 //  var port = "5000"
 //  var baseUrl = protocol + server + ":" + port
