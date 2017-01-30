@@ -1,8 +1,8 @@
 window.onload=function(){
 
-//  var protocol = "http://"
+  var protocol = "http://"
 //  var protocol = "//"
-  var protocol = "https://"
+//  var protocol = "https://"
 
 
 
